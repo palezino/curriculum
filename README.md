@@ -8,7 +8,7 @@ This repo contains the actual lesson files used on our website. For the actual T
 
 Our community can be found on the [TOP Discord server](https://discord.gg/fbFCkYabZB).
 
-When on Discord server, be polite to others, we're all just simple people that like to code.
+When on Discord server, be polite to others. We're all just simple people that like to code.
 
 ## Contributing
 
